@@ -6,5 +6,5 @@ xcuserdata
 /build
 /.build
 /docs
-/Carthage/Checkouts
+Carthage
 /.swiftpm
